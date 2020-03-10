@@ -1,0 +1,6 @@
+name: WebSafeLogin
+version: ${project.version}
+main: cn.craftyun.websafelogin.WebSafeLogin
+api-version: 1.13
+authors: [FanHuaCloud]
+description: 基于网页的安全登录插件
